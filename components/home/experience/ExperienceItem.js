@@ -7,6 +7,8 @@ export const ExperienceItem = ({
   time,
   location,
   description,
+  description2,
+  description3,
   tech,
 }) => {
   return (
@@ -30,6 +32,8 @@ export const ExperienceItem = ({
       </div>
       <Reveal>
         <p className={styles.description}>{description}</p>
+        <p className={styles.description}>{description2}</p>
+        <p className={styles.description}>{description3}</p>
       </Reveal>
       <Reveal>
         <div className={styles.tech}>

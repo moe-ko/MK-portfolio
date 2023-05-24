@@ -11,9 +11,7 @@ export const Projects = () => {
             return <Project key={project.title} {...project} />;
           })}
         </div>
-        <br></br>
-        <p>-------------------------------------------------------------------</p>
-        <p>more projects to be added</p>
+        <p>* more projects to be added</p>
     </section>
   );
 };
@@ -30,7 +28,7 @@ const projects = [
     modalContent: (
       <>
         <p>
-        Attendify is a revolutionary new mobile application that helps Infosys track attendance at in-person sessions and is the perfect solution for keeping track of employees' involvement in the sessions.
+        Attendify is a revolutionary new mobile application that helps Infosys track attendance at in-person sessions and is the perfect solution for keeping track of employees&apos; involvement in the sessions.
         </p>
         <p>
         The app features an intuitive user interface that allows users to quickly and easily check in and out of sessions. It also provides real-time attendance data, allowing users to quickly review attendance records and having the option to download the attendance reports.
@@ -50,7 +48,7 @@ const projects = [
     projectLink: "https://moeko.vercel.app/",
     tech: ["ReactJs", "Next.JS", "SCSS", "Vercel"],
     description:
-      "My hobby and my portfolio project which is supporting to run this site",
+      "My portfolio project which is supporting to run this site",
     modalContent: (
       <>
         <p>
