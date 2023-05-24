@@ -23,7 +23,7 @@ const projects = [
     title: "Attendify",
     imgSrc: "project-imgs/attendify.jpg",
     code: "https://github.com/moe-ko/Attendify",
-    projectLink: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    projectLink: "https://expo.dev/",
     tech: ["React Native", "Tailwind CSS", "Firebase", "Expo"],
     description:
       "A real-time event tracking app for an organization. Built for internal use only within the organization.",
@@ -47,7 +47,7 @@ const projects = [
     title: "MK Portfolio",
     imgSrc: "project-imgs/MK-Portfolio.jpg",
     code: "https://github.com/moe-ko/MK-portfolio",
-    projectLink: " ",
+    projectLink: "https://moeko.vercel.app/",
     tech: ["ReactJs", "Next.JS", "SCSS", "Vercel"],
     description:
       "My hobby and my portfolio project which is supporting to run this site",
