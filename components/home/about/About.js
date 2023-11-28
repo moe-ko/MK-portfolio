@@ -14,14 +14,14 @@ export const About = () => {
           <Reveal>
             <p className={`${styles.aboutText} ${styles.highlightFirstLetter}`}>
               Hey! I&apos;m Moe, if you haven&apos;t already gathered that by
-              now. I&apos;m a manager turned full stack developer from London,
-              UK. I specialize in the backend, databases, but
+              now. I&apos;m a manager turned DevOps from London,
+              UK. I specialize in the cloud technologies and Infrastructure as Code (IaC), but
               love building with whatever tools are right for the job.
             </p>
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
-              I currently work for Infosys on Full Stack role. Also enjoy working on
+              I currently work for Infosys on SRE/DevOps role. Also enjoy working on
               some accelerate projects to sharpen my new skills and learn from it 💪.
             </p>
           </Reveal>
