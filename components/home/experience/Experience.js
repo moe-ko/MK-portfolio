@@ -16,11 +16,32 @@ export const Experience = () => {
 };
 
 const experience = [
-  
+  {
+    title: "Infosys",
+    position: "Site Reliability Engineer",
+    time: "Sep 2023 - Present",
+    location: "London",
+    description: [
+      " Contributing in building and maintaining a robust and high-performance infrastructure, enabling organisation to deliver reliable services to customers while continuously improving system reliability and availability.",
+      ],
+    description2: [
+      " Also developing the modules for the chatbot to assist the dev teams in obtaining support for various tasks such as accessing development environments URLs, addressing deployment concerns, troubleshooting pipeline issues, and much more. This can be achieved through the utilization of keywords or by posing questions to the user-friendly chatbot.",
+      ],
+    tech: [
+      "Python",
+      "PowerShell",
+      "AWS",
+      "Azure DevOps",
+      "Terraform",
+      "Ansible",
+      "Git",
+      "Splunk",
+    ],
+  },
   {
     title: "Infosys",
     position: "Technical Associate",
-    time: "Aug 2022 - Present",
+    time: "Aug 2022 - Sep 2023",
     location: "London",
     description: [
       "I helped build the app called Attendify, which help records the attendance from Bench Enablement program to use of all kinds of events. It helps the admins to schedule events and create events with Infosys secure networks. Also made it prettier design too.",
