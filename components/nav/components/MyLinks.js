@@ -30,26 +30,6 @@ export const MyLinks = () => {
           <AiFillGithub size="2.4rem" />
         </Link>
       </motion.span>
-
-      <motion.span
-        initial={{ y: -30, opacity: 0 }}
-        animate={{ y: 0, opacity: 1 }}
-        transition={{ duration: 0.5, delay: 0.2 }}
-      >
-        <Link href="https://www.twitter.com/mikejimmy_mj" target="_blank" rel="nofollow">
-          <AiFillTwitterCircle size="2.4rem" />
-        </Link>
-      </motion.span>
-
-      {/* <motion.span
-        initial={{ y: -30, opacity: 0 }}
-        animate={{ y: 0, opacity: 1 }}
-        transition={{ duration: 0.5, delay: 0.3 }}
-      >
-        <Link href="https://www.codepen.io" target="_blank" rel="nofollow">
-          <AiFillCodepenCircle size="2.4rem" />
-        </Link>
-      </motion.span> */}
     </div>
   );
 };
