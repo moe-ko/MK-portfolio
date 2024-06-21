@@ -20,7 +20,9 @@ export const Stats = () => {
             <span className="chip">Ansible</span>
             <span className="chip">Splunk</span>
             <span className="chip">Git</span>
-            <span className="chip">GitHub</span>
+            <span className="chip">SQL</span>
+            <span className="chip">IaC</span>
+            <span className="chip">CaaS</span>
           </div>
         </div>
       </Reveal>
