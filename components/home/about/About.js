@@ -21,7 +21,7 @@ export const About = () => {
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
-              I currently work for Infosys on SRE/DevOps role. Also enjoy working on
+              I currently work for Infosys as an Enterprise Technology Engineer / DevOps role. Also enjoy working on
               some accelerate projects to sharpen my new skills and learn from it 💪.
             </p>
           </Reveal>
@@ -36,7 +36,7 @@ export const About = () => {
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
-              I&apos;m passively looking for new positions where I can merge my
+              I&apos;m looking for new oppourtunities where I can merge my
               love for architecting with my love for the cloud ☁️. If you think
               you&apos;ve got an opening that I might like, let&apos;s connect
               🔗
