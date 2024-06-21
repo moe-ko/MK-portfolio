@@ -18,7 +18,7 @@ export const Experience = () => {
 const experience = [
   {
     title: "Infosys",
-    position: "Site Reliability Engineer",
+    position: "Enterprise Technology Engineer",
     time: "Sep 2023 - Present",
     location: "London",
     description: [
